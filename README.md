@@ -25,7 +25,7 @@
 <details>
 <summary>2. Проходження курсів на курсера</summary>
 
-Наразі найбільш адекватними вважаються курси на Coursera, зокремі ось [ці](https://www.coursera.org/professional-certificates/google-project-management).
+Наразі найбільш адекватними вважаються курси на Coursera, зокрема ось [ці](https://www.coursera.org/professional-certificates/google-project-management).
 
 Також можна обрати будь-які інші тематичні курси, але попередньо необхідно узгодити їх проходження з викладачем.
 
@@ -40,3 +40,7 @@
 Інформацію по сертифікатах надсилати [тут](https://forms.gle/WFLCtw4DN3yXNQkQ7).
 
 </details>
+
+<br/>
+
+Щодо оформлення пошти для Coursera (та пошуку контктних осіб для цього) можна глянути [тут](https://mooc4ua.online/coursera) або спробувати оформити через [телеграм](https://t.me/kpi_telecom_bot)
