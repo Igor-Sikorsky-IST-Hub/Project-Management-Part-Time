@@ -18,9 +18,11 @@
 > - **3 лабораторних роботи: 60 балів**
 > - **5 лабораторних робіт: 95 балів**
 
+Лабораторні работи надсилати [тут](https://forms.gle/eQs3bX2BkRnhn35T8).
+
 </details>
 
-<details>
+<details></details>
 <summary>2. Проходження курсів на курсера</summary>
 
 Наразі найбільш адекватними вважаються курси на Coursera, зокремі ось [ці](https://www.coursera.org/professional-certificates/google-project-management).
@@ -34,4 +36,7 @@
 > **При проходжженні курсів [тут](https://www.coursera.org/professional-certificates/google-project-management):**
 >- 1 сертифікат (тобто будь-який пройдений курс): **60 балів**
 >- 2 сертифікати: **95 балів**
+
+Інформацію по сертифікатах надсилати [тут](https://forms.gle/WFLCtw4DN3yXNQkQ7).
+
 </details>
