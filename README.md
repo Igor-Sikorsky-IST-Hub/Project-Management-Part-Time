@@ -22,7 +22,7 @@
 
 </details>
 
-<details></details>
+<details>
 <summary>2. Проходження курсів на курсера</summary>
 
 Наразі найбільш адекватними вважаються курси на Coursera, зокремі ось [ці](https://www.coursera.org/professional-certificates/google-project-management).
